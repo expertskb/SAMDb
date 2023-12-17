@@ -15,6 +15,6 @@ var_dump($samdb->gdinfo("18pKPRRSPnDbeL82pEa-Zatovn6iWLuCF"));
 
 then return
 
-object(stdClass)#3 (6) { ["name"]=> string(18) "Free Palestine.jpg" ["mimeType"]=> string(10) "image/jpeg" ["thumbnailLink"]=> string(163) "https://lh3.googleusercontent.com/drive-storage/ANtge_FaoINwa5gYlfaXB_qWXw2rUeh03Xb9EPtDYnVjqeTj-5iMMYaxq8don5DyoAkONQHmPoQL96iBqug9J5KB4OPbXYL1LRs6tbm3UJUj5Q=s220" ["fileExtension"]=> string(3) "jpg" ["md5Checksum"]=> string(32) "5b8f7da7061ce56ec222a837e90583da" ["size"]=> string(5) "34776" }
+![Application](https://i.ibb.co/jGjdcCv/Screenshot-2023-12-17-130715.png)
 
 Check ip.php and movie.php if you need movie info or ip info etc,
