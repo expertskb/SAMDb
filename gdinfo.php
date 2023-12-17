@@ -1,5 +1,5 @@
 <?php
-include_once "samdb.class.php";
+include_once "class/samdb.class.php";
 
 use Shakib\SAMDb;
 
